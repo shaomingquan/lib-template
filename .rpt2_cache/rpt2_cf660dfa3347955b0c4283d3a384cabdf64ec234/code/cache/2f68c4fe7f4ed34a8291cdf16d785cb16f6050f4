@@ -1,0 +1,1 @@
+{"code":"export var add = function (a, b) {\r\n    return a + b;\r\n};\r\n","references":[]}
